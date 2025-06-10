@@ -1,0 +1,58 @@
+<p align="center">
+  <samp>
+    Hi! I'm Lador!
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <img src="./assets/maltese_3.gif" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    I like: <br>
+    • Breaking prod (then fixing it, obviously) <br>
+    • Over-engineering side projects that never ship <br>
+    • Arguing about tabs vs. spaces (tabs win, fight me)
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    <img src="./assets/maltese_2.gif" width="28px">
+  </samp>
+</p>
+
+<p align="center">
+  <samp>
+    Meet me on <a href="www.linkedin.com/in/xuehui-lan">Linkedin</a><br><br>
+    <img src="./assets/maltese_4.gif" width="240px" align="center">
+  </samp>
+</p>
+
+<details>
+  <summary><samp>🔧 <b>Software Engineer</b></samp></summary>
+  <samp>This guy enjoys turning coffee into "wait, why did this ever work?" moments.</samp>
+</details>
+
+<details>
+  <summary><samp>🏎️ <b>F1 Chaos Enthusiast</b></samp></summary>
+  <samp>Tifosi at heart (Ferrari pain is part of the process).</samp>
+</details>
+
+<details>
+  <summary><samp>⚽ <b>Chelsea FC fan</b></samp></summary>
+  <samp>Still coping with 2012 UCL magic.</samp>
+</details>
+
+<details>
+  <summary><samp>💎 <b>CARAT</b></samp></summary>
+  <samp>Woozi’s production skills >> my coding skills.</samp>
+</details>
+
+<details>
+  <summary><samp>🎮 <b>FF14 Grinder</b></samp></summary>
+  <samp>Currently stuck in Occult Crescent and Cosmic Exploration.</samp>
+</details>
