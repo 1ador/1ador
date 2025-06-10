@@ -4,11 +4,9 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    <img src="./assets/maltese_3.gif" width="28px">
-  </samp>
-</p>
+<div align="center">
+  <img src="./assets/maltese_3.gif" width="50px">
+</div>
 
 <p align="center">
   <samp>
@@ -19,15 +17,13 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    <img src="./assets/maltese_2.gif" width="28px">
-  </samp>
-</p>
+<div align="center">
+  <img src="./assets/maltese_1.gif" width="50px">
+</div>
 
 <p align="center">
   <samp>
-    Meet me on <a href="www.linkedin.com/in/xuehui-lan">Linkedin</a><br><br>
+    Meet me on <a href="https://www.linkedin.com/in/xuehui-lan">Linkedin</a><br><br>
     <img src="./assets/maltese_4.gif" width="240px" align="center">
   </samp>
 </p>
