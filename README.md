@@ -23,7 +23,7 @@
 
 <p align="center">
   <samp>
-    Meet me on <a href="https://www.linkedin.com/in/xuehui-lan">Linkedin</a><br><br>
+    Meet me on <a href="https://www.linkedin.com/in/xuehui-lan">Linkedin</a> or view my <a href="https://1ador.github.io/imlador/">Website</a><br><br>
     <img src="./assets/maltese_4.gif" width="240px" align="center">
   </samp>
 </p>
@@ -50,5 +50,5 @@
 
 <details>
   <summary><samp>🎮 <b>FF14 Grinder</b></samp></summary>
-  <samp>Currently stuck in Occult Crescent and Cosmic Exploration.</samp>
+  <samp>Deep in the FC leveling grind — and yes, also stuck in the madness that is the housing lottery! 🎲💀</samp>
 </details>
